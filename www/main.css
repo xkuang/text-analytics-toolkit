@@ -1,0 +1,10 @@
+.main-header .logo {
+  font-family:Palatino Linotype;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.skin-purple .sidebar a {
+  color: white;
+}
+
